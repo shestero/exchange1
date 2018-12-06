@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.typesafe.akka:akka-http-core_2.12:10.1.5:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.typesafe.akka/akka-http-core_2.12/akka-http-core_2.12-10.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.typesafe.akka/akka-http-core_2.12/akka-http-core_2.12-10.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

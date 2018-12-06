@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.typesafe.akka:akka-actor_2.12:2.5.18:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.typesafe.akka/akka-actor_2.12/akka-actor_2.12-2.5.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.typesafe.akka/akka-actor_2.12/akka-actor_2.12-2.5.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/shestero/IdeaProjects/exchange1/src/main/scala/JsonSupport.scala:36:45: could not find implicit value for evidence parameter of type spray.json.DefaultJsonProtocol.JF[Seq[ExchRequest]][0m
+[0m[[0m[31merror[0m] [0m[0m  implicit val fmtExchRequests = jsonFormat1(ExchRequests)[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shestero/IdeaProjects/exchange1/src/main/scala/ExchService.scala:30:39: could not find implicit value for parameter um: akka.http.scaladsl.unmarshalling.FromRequestUnmarshaller[ExchRequests][0m
+[0m[[0m[31merror[0m] [0m[0m    ( post & path(pathStr) & entity(as[ExchRequests]) ) { requests =>[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

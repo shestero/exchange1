@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/home/shestero/IdeaProjects/exchange1/src/test/scala/UserRoutesSpec.scala:19:16: overriding value system in trait RouteTest of type akka.actor.ActorSystem;[0m
+[0m[[0m[31merror[0m] [0m[0m value system needs `override' modifier[0m
+[0m[[0m[31merror[0m] [0m[0m  implicit val system = ActorSystem()[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.logging.log4j:log4j-api-scala_2.12:11.0:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.apache.logging.log4j/log4j-api-scala_2.12/log4j-api-scala_2.12-11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.apache.logging.log4j/log4j-api-scala_2.12/log4j-api-scala_2.12-11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
