@@ -49,7 +49,7 @@ class ExchServer(address:String, port:Int)(
 
   bindingFuture.onComplete { // this usually happens when starting a second instance of the application
     case Failure(e) =>
-      logger.fatal( s"Start HTTP server was unable to start! Error: $e" )
+      logger.fatal( s"HTTP server was unable to start! Error: $e" )
       stop()
       system.terminate()
       java.lang.System.exit(1)
